@@ -1,6 +1,6 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 <h1 align="center">Hi 👋, I'm Aleksei!</h1>
-<h3 align="center">A passionate full stack JavaScript developer</h3>
+<h3 align="center">Full stack JavaScript developer</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleks2580&label=Profile%20views&color=3ab40e&style=flat" alt="aleks2580" /> </p>
