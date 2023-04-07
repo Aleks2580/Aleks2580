@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleks2580&label=Profile%20views&color=3ab40e&style=flat" alt="aleks2580" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **aleks101989@mail.ru**
 
